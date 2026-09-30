@@ -68,3 +68,12 @@ This confirmed that connectivity had been restored.
 - Connectivity testing
 - Network troubleshooting
 - Fault identification and resolution
+## Evidence
+
+### Working Network
+
+![Working network and successful ping](lab01-working-network.png)
+
+### Troubleshooting
+
+![Network troubleshooting and failed ping](lab01-troubleshooting.png)
