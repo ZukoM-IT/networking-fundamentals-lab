@@ -89,7 +89,7 @@ After enabling the router interfaces:
 
 ### Working Network 1
 
-![PC1 to PC2 successful ping](Lab02-pc1-to-pc2-network-working.png)
+![PC1 to PC2 successful ping](Lab02 pc1 to-pc2 network working.png)
 
 ### Working Network 2
 
