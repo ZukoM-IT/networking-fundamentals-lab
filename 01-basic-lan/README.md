@@ -72,9 +72,8 @@ This confirmed that connectivity had been restored.
 
 ### Working Network
 
-![Lab01-working-networking.png]
+![Working network and successful ping](lab01-working-network.png)
 
 ### Troubleshooting
 
-![Lab01-Troubleshooting-network.png]
-
+![Network troubleshooting and failed ping](lab01-troubleshooting.png)
