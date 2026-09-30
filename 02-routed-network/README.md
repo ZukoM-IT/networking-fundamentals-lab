@@ -85,3 +85,20 @@ After enabling the router interfaces:
 - Basic troubleshooting
 - Interface verification
 - Connectivity testing
+## Evidence
+
+### Working Network 1
+
+![PC1 to PC2 successful ping](Lab02 pc1 to pc2 network working.png)
+
+### Working Network 2
+
+![PC3 to PC4 successful ping](Lab02 pc3 to pc4 network working.png)
+
+### Troubleshooting Network 1
+
+![Network 1 troubleshooting](Lab02 Network 1 Troubleshooting.png)
+
+### Troubleshooting Network 2
+
+![Network 2 troubleshooting](Lab02 Network 2 Troubleshooting.png)
