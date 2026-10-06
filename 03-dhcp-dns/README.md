@@ -119,3 +119,16 @@ I also learned how DNS translates hostnames into IP addresses and how incorrect 
 - `ping`
 - Network troubleshooting
 - Cisco Packet Tracer
+## Evidence
+
+### Network Created
+
+![Lab 3 network topology](Lab-03-Network-created.png)
+
+### Connection Established
+
+![DHCP and DNS connection established](Lab-03-connection-established.png)
+
+### Troubleshooting
+
+![Lab 3 troubleshooting](Lab-03-Troubleshooting.png)
