@@ -53,5 +53,3 @@ I learned that even a small configuration error on a networking device can preve
 - Network troubleshooting
 - Fault identification and resolution
 
-
-![VLAN troubleshooting](Lab-04-Troubleshooting.png)
