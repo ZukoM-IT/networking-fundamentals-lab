@@ -52,15 +52,15 @@ I learned that small configuration errors in networking devices can prevent comm
 
 ### Network Topology
 
-![Lab 5 network topology](Lab05-Network-Topology.png)
+![Lab 5 network topology](Lab-05-Network-Topology.png)
 
 ### Connection Established
 
-![Successful inter-VLAN connectivity](Lab05-Connection-Established.png)
+![Successful inter-VLAN connectivity](Lab-05-Connection-Established.png)
 
 ### Troubleshooting
 
-![Lab 5 troubleshooting](Lab05-Troubleshooting.png)
+![Lab 5 troubleshooting](Lab-05-Troubleshooting.png)
 
 ## Skills Demonstrated
 
