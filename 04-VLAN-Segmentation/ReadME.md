@@ -52,4 +52,16 @@ I learned that even a small configuration error on a networking device can preve
 - Network connectivity testing
 - Network troubleshooting
 - Fault identification and resolution
+## Evidence
 
+### Network Created
+
+![Lab 04 VLAN network topology](Lab-04-Topology-created.png)
+
+### Connection Working
+
+![Successful connection between devices](Lab-04-connection-established.png)
+
+### Troubleshooting
+
+![VLAN troubleshooting](Lab-04-Troubleshooting.png)
