@@ -26,31 +26,25 @@ Each lab includes its own documentation and network topology evidence.
 
 Building a basic local area network by connecting end devices through a switch, configuring IPv4 addressing and testing connectivity between devices.
 
-[View Lab 01](01-basic-lan/)
 
 ### Lab 02 — Routed Network Configuration
 
 Configuring a network with multiple subnets using a router, switches and end devices. Focuses on IP addressing, default gateways and communication between different networks.
 
-[View Lab 02](02-routed-network/)
 
 ### Lab 03 — DHCP & DNS Configuration
 
 Exploring automatic IP address assignment through DHCP and domain name resolution through DNS.
 
-[View Lab 03](03-dhcp-dns/)
-
 ### Lab 04 — VLAN Segmentation
 
 Configuring Virtual Local Area Networks (VLANs) to logically separate devices within a network and exploring access ports and trunking.
 
-[View Lab 04](04-vlan-segmentation/)
 
 ### Lab 05 — Inter-VLAN Routing
 
 Configuring communication between separate VLANs through inter-VLAN routing, allowing devices on different network segments to communicate.
 
-[View Lab 05](05-inter-vlan-routing/)
 
 ## Tools & Technologies
 
